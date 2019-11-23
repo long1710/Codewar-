@@ -10,4 +10,4 @@ A collection of code that I do from my code war
 (I love codewar and recommend to use it to get familiarize with new languages)
 
 
-profile https://www.codewars.com/users/mslcb99
+profile https://www.codewars.com/users/mslcb99/completed_solutions
